@@ -1,0 +1,15 @@
+BIOGRF 200
+DESCRP zr2o4C
+REMARK Created by adfreport
+REMARK DataFrom /share/data/shchygol/UIO/TS_clean/structures/zr2o4C/zr2o4C.t21
+RUTYPE NORMAL
+HETATM     1 Zr                  0.25754   1.12537  -0.00000   Zr   1 1   1.61400
+HETATM     2 O                  -1.58184  -0.01309  -0.00000    O   1 1  -0.78400
+HETATM     3 Zr                 -0.34076  -1.48575   0.00000   Zr   1 1   1.40700
+HETATM     4 O                   0.67038  -0.53003   1.33279    O   1 1  -0.78400
+HETATM     5 O                   0.67038  -0.53004  -1.33280    O   1 1  -0.78400
+HETATM     6 O                   0.65846   2.87652   0.00002    O   1 1  -0.66900
+UNIT ENERGY   kcalmol
+ENERGY -1034.11752426628
+END
+
