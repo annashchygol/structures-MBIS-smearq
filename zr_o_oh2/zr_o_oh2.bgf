@@ -1,0 +1,15 @@
+BIOGRF 200
+DESCRP zr_o_oh2
+REMARK Created by adfreport
+REMARK DataFrom /share/data/shchygol/UIO/TS_smear/structures/zr_o_oh2/zr_o_oh2.t21
+RUTYPE NORMAL
+HETATM     1 Zr                 -0.86325   0.50866   0.09937   Zr   1 1   1.63300
+HETATM     2 O                  -2.19042   1.46352   0.80273    O   1 1  -0.63900
+HETATM     3 H                   1.20546   2.10846   0.90183    H   1 1   0.29000
+HETATM     4 O                   0.94286   1.30432   0.42958    O   1 1  -0.78700
+HETATM     5 O                  -1.01846  -1.45071   0.47617    O   1 1  -0.78700
+HETATM     6 H                  -1.68796  -1.94688   0.96989    H   1 1   0.29000
+UNIT ENERGY   kcalmol
+ENERGY -858.1469064717802
+END
+
