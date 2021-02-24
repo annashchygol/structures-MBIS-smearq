@@ -1,0 +1,4 @@
+#!/bin/sh
+
+$ADFBIN/adf <zr6o12A.in
+
