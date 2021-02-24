@@ -1,0 +1,4 @@
+#!/bin/sh
+
+$ADFBIN/adf <zr2_o3_oh2.in
+
