@@ -1,0 +1,12 @@
+BIOGRF 200
+DESCRP zro2
+REMARK Created by adfreport
+REMARK DataFrom /share/data/shchygol/UIO/TS_clean/structures/zro2/zro2.t21
+RUTYPE NORMAL
+HETATM     1 Zr                  0.00000   0.00000   0.30229   Zr   1 1   1.24800
+HETATM     2 O                   0.00000   1.45514  -0.75732    O   1 1  -0.62400
+HETATM     3 O                   0.00000  -1.45514  -0.75733    O   1 1  -0.62400
+UNIT ENERGY   kcalmol
+ENERGY -458.2808847786624
+END
+
