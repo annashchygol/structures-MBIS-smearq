@@ -1,0 +1,21 @@
+BIOGRF 200
+DESCRP zr4o8
+REMARK Created by adfreport
+REMARK DataFrom /share/data/shchygol/UIO/TS_clean/structures/zr4o8/zr4o8.t21
+RUTYPE NORMAL
+HETATM     1 O                  -0.00002   2.41309   0.00002    O   1 1  -0.89300
+HETATM     2 O                   1.49185   0.29861  -1.59498    O   1 1  -0.84600
+HETATM     3 O                  -1.49186   0.29857  -1.59498    O   1 1  -0.84600
+HETATM     4 O                   0.00003  -2.11891  -0.00001    O   1 1  -0.92900
+HETATM     5 O                  -1.49186   0.29856   1.59497    O   1 1  -0.84600
+HETATM     6 O                   1.49186   0.29860   1.59497    O   1 1  -0.84600
+HETATM     7 O                  -3.23615  -2.17874  -0.00001    O   1 1  -0.69600
+HETATM     8 O                   3.23621  -2.17864  -0.00001    O   1 1  -0.69600
+HETATM     9 Zr                 -1.76534  -1.15037  -0.00001   Zr   1 1   1.63300
+HETATM    10 Zr                 -0.00001   1.43689   1.74258   Zr   1 1   1.66600
+HETATM    11 Zr                  1.76537  -1.15032  -0.00001   Zr   1 1   1.63300
+HETATM    12 Zr                 -0.00002   1.43692  -1.74256   Zr   1 1   1.66600
+UNIT ENERGY   kcalmol
+ENERGY -2201.342999682725
+END
+
