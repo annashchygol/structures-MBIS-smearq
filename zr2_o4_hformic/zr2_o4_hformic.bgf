@@ -1,0 +1,20 @@
+BIOGRF 200
+DESCRP zr2_o4_hformic
+REMARK Created by adfreport
+REMARK DataFrom /share/data/shchygol/UIO/TS_clean/structures/zr2_o4_hformic/zr2_o4_hformic.t21
+RUTYPE NORMAL
+HETATM     1 Zr                 -0.85716  -0.25921   0.21546   Zr   1 1   1.59700
+HETATM     2 O                  -1.11044   1.24896  -1.50741    O   1 1  -0.72500
+HETATM     3 O                   0.79513   0.74662   0.98794    O   1 1  -0.82600
+HETATM     4 O                   0.68977  -1.25073  -0.76667    O   1 1  -0.82300
+HETATM     5 O                  -1.98365  -1.14163   1.28176    O   1 1  -0.65900
+HETATM     6 Zr                  1.96476   0.16161  -0.43542   Zr   1 1   1.80300
+HETATM     7 O                   3.88795  -0.21055  -0.13369    O   1 1  -0.79700
+HETATM     8 H                  -0.36410   2.45706  -2.95227    H   1 1  -0.22100
+HETATM     9 C                  -0.13448   1.74434  -2.13826    C   1 1   1.10600
+HETATM    10 O                   1.10900   1.51186  -1.93915    O   1 1  -0.73000
+HETATM    11 H                   4.62234  -0.70300   0.25293    H   1 1   0.27500
+UNIT ENERGY   kcalmol
+ENERGY -1816.166348813214
+END
+

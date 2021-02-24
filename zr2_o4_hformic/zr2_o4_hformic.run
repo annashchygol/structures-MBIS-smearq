@@ -1,0 +1,4 @@
+#!/bin/sh
+
+$ADFBIN/adf <zr2_o4_hformic.in
+
