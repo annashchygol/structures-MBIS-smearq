@@ -1,0 +1,31 @@
+NumericalQuality Good
+
+Symmetry NOSYM
+
+XC
+  GGA PBE
+  dispersion Grimme3
+end
+
+atoms
+      1         C      0.129990      0.360070     -0.000050 
+      2         H      0.040170      1.462450     -0.000000 
+      3         O     -1.053130     -0.279220     -0.000030 
+      4         H     -1.775080      0.360750      0.000270 
+      5         O      1.172510     -0.218730      0.000030 
+end
+
+basis
+  core Large
+  createoutput None
+  type TZ2P
+end
+
+geometry
+end
+
+relativistic Scalar ZORA
+
+save TAPE10
+
+end input

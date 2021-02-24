@@ -1,0 +1,14 @@
+BIOGRF 200
+DESCRP hformic
+REMARK Created by adfreport
+REMARK DataFrom /share/data/shchygol/UIO/TS_clean/structures/hformic/hformic.t21
+RUTYPE NORMAL
+HETATM     1 C                   0.13323   0.36522   0.00001    C   1 1   0.85100
+HETATM     2 H                   0.03697   1.47557   0.00001    H   1 1  -0.15300
+HETATM     3 O                  -1.06335  -0.28329   0.00009    O   1 1  -0.47600
+HETATM     4 H                  -1.78333   0.37524   0.00014    H   1 1   0.31300
+HETATM     5 O                   1.18102  -0.22027  -0.00006    O   1 1  -0.53500
+UNIT ENERGY   kcalmol
+ENERGY -686.9880318305719
+END
+
