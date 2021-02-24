@@ -1,0 +1,12 @@
+BIOGRF 200
+DESCRP h2o
+REMARK Created by adfreport
+REMARK DataFrom /share/data/shchygol/UIO/TS_clean/structures/h2o/h2o.t21
+RUTYPE NORMAL
+HETATM     1 O                   0.00000   0.00000   0.11856    O   1 1  -0.60400
+HETATM     2 H                   0.00000   0.76657  -0.47724    H   1 1   0.30200
+HETATM     3 H                   0.00000  -0.76657  -0.47724    H   1 1   0.30200
+UNIT ENERGY   kcalmol
+ENERGY -328.1830968922358
+END
+
