@@ -1,0 +1,4 @@
+#!/bin/sh
+
+$ADFBIN/adf <uio66zr_C08.in
+
